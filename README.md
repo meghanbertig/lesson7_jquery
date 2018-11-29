@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 29, 2018
 
 ### Student Name:  
-(First and Last Name)
+Meghan Bertig
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, I learned how easy and fun jquery can be in an application!
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://meghanbertig.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to toggle items on an html page 
+2. How to change colors of items on an html page
+3. How the console can be used to view changes made without truly changing the application
 
